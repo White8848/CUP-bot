@@ -1,0 +1,35 @@
+{
+    "何清华": {
+        "send_data": {
+            "content": {
+                "0": "在京，不在校集中住宿",
+                "1": "",
+                "2": "假期未离京",
+                "3": "在京自有房",
+                "4": "已上报在京住址，无变化",
+                "5": "低风险",
+                "6": "北京市昌平区政府街 经纬度:116.23128,40.22077",
+                "7": "正常",
+                "8": "37.3以下",
+                "9": "绿色",
+                "10": "均正常",
+                "11": "无",
+                "12": "否",
+                "13": "",
+                "14": ""
+            },
+            "version": 16,
+            "stat_content": {},
+            "location": {
+                "province": "北京市",
+                "country": "中国",
+                "city": "北京市",
+                "longitude": 116.23128,
+                "latitude": 40.22077
+            },
+            "sick": "",
+            "accept_templateid": "OsHzL4JCtoJWHVio8tUPTsZQIQupStRf1YLP_IaSf6s"
+        },
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo2Njc5NSwiZXhwIjoxNzEzNDk3OTcxLCJpc3MiOiJnaW4tYmxvZyJ9.SL71IYS6hDgYtk4-CY6YFQTp1j3clKvpNkTCJJx-hMk"
+    }
+}
